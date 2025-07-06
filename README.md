@@ -23,3 +23,13 @@ $$ TBR = \frac{\Delta Goodwill\ Impairment}{\Delta Negative\ Sentiment\ Index} $
 
 > "When TBR > 1.0, behavioral debt exceeds equity capacity."  
 > — Tejas Bhoyar, SSRN 2025
+
+
+---
+### ⚠️ Intellectual Property Notice
+
+The concepts, frameworks, and methodologies described in this work are considered the intellectual property of the author under applicable common law protections.
+
+Unauthorized replication, commercial usage, or unattributed adaptation may constitute infringement.
+
+This work is currently under review for formal IP protection.
